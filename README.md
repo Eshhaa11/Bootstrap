@@ -15,7 +15,7 @@ Language/Frameworks Used:
 
   -HTML: For the structure of the webpage.
 
-  -CSS: For styling the Css grid
+  -CSS: For styling 
 
  -Bootstrap : For responsive grid layouts and built-in styling.
 

@@ -14,10 +14,6 @@ body{
     text-align: center;
 }  
 
-grid-container {
-    display: grid;
-    gap: 20px; 
-}
 
 
 
